@@ -12,9 +12,9 @@ Now I am a second-year master's student in from the Department of Computer Scien
 
 My research interests include NLP,  dialogue system, and dialogue safety. I am also familiar with some model pre-training  researches.
 
-I am looking for jobs after I got my master's degree (June, 2023 in expect). I am very interested in jobs about 
+**I am looking for jobs** after I got my master's degree (June, 2023 in expect). I am very interested in jobs about 
 
-1. Algorithm engineer NLP (e.g. search engine, dialogue system)
+1. Algorithm engineer about NLP (e.g. search engine, dialogue system)
 2. NLP researcher
 3. Quant or trader  in quantitative research companies
 
@@ -22,6 +22,9 @@ If you are hiring for one of these positions, and interested in me, please do no
 
 Publications
 ======
+
+\* means equal contribution
+
 - **Hao Sun**\*, Zhenru Lin\*, Chujie Zheng, Siyang Liu, and Minlie Huang. 2021. [PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support](https://aclanthology.org/2021.findings-acl.130). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, pages 1489–1503, Online. Association for Computational Linguistics.
 - **Hao Sun**\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, Chujie Zheng, Hao Zhou, Nanyun Peng, Xiaoyan Zhu, and Minlie Huang. 2022. [On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark](https://aclanthology.org/2022.findings-acl.308). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 3906–3923, Dublin, Ireland. Association for Computational Linguistics.
 
@@ -32,8 +35,14 @@ Preprint (Papers Under Review)
 
 # Social Services
 
+Teaching Assistant of *Artificial Neural Network* in Tsinghua University, 2021
 
-
-
+Assistant Reviewer in ACL2022
 
 # Awards
+
+Second prize of Autumn Scholarship for Graduate Students of Tsinghua University, 2021
+
+Second prize of Tencent Games Security Technology Competition (Track: Natural Language Processing), 2021
+
+Excellence award of Tencent Games Security Technology Competition (Track: Machine Learning), 2019
