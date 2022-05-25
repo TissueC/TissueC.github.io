@@ -16,7 +16,7 @@ My research interests include NLP,  dialogue system, and dialogue safety. I am a
 
 1. Algorithm engineer about NLP (e.g. search engine, dialogue system)
 2. NLP researcher
-3. Quant or trader  in quantitative research companies
+3. Quant or trader in quantitative research companies
 
 If you are hiring for one of these positions, and interested in me, please do not hesitate to contact me by e-mail.
 
@@ -35,14 +35,14 @@ Preprint (Papers Under Review)
 
 # Social Services
 
-Teaching Assistant of *Artificial Neural Network* in Tsinghua University, 2021
+* Teaching Assistant of *Artificial Neural Network* in Tsinghua University, 2021
 
-Assistant Reviewer in ACL2022
+* Assistant Reviewer in ACL2022
 
 # Awards
 
-Second prize of Autumn Scholarship for Graduate Students of Tsinghua University, 2021
+* Second prize of Autumn Scholarship for Graduate Students of Tsinghua University, 2021
 
-Second prize of Tencent Games Security Technology Competition (Track: Natural Language Processing), 2021
+* Second prize of Tencent Games Security Technology Competition (Track: Natural Language Processing), 2021
 
-Excellence award of Tencent Games Security Technology Competition (Track: Machine Learning), 2019
+* Excellence award of Tencent Games Security Technology Competition (Track: Machine Learning), 2019
