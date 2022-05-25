@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Hao Sun / Site Title"
+title                    : "Hao Sun / 孙豪"
 title_separator          : "-"
 name                     : &name "Hao Sun"
 description              : &description "Master Student in Tsinghua University"
@@ -85,7 +85,7 @@ author:
   bio              : "A master student in Tsinghua University. Research interest: NLP, Dialogue system, Dialogue Safety"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en"
   email            : "h-sun20[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
