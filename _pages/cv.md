@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Shanghai Jiao Tong University, 2016
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.Eng. in Tsinghua University, 2023 (expected)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: *Python, C++* 
+
+* Familiar with artificial neural networks and NLP-related deep learning methods; Know about basic traditional machine learning methods; Familiar with libraries including [PyTorch](http://pytorch.org/), [Transformers](https://huggingface.co/transformers/), [scikit-learn](https://scikit-learn.org/), etc.
+
+* Familiar with *Linux* development environment
+
+* Related Courses: Computational Linguistics, Principle of Artificial Intelligence, Methods of Optimization, Machine Learning, Introduction to Data Science, Reinforcement Learning
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
