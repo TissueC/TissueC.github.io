@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Now I am a second-year master's student in from the Department of Computer Science and Technology, Tsinghua University. I am affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before I come to Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2016.
+Now I am a second-year master's student in from the Department of Computer Science and Technology, Tsinghua University. I am affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before I come to Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
 
 My research interests include NLP,  dialogue system, and dialogue safety. I am also familiar with some model pre-training  researches.
 
