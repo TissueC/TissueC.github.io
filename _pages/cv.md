@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Shanghai Jiao Tong University, 2016
+* Computer Science B.Eng. in Shanghai Jiao Tong University, 2016~2020
 
-* M.Eng. in Tsinghua University, 2023 (expected)
+* Computer Science M.Eng. in Tsinghua University, 2020~2023 (expected)
 
 
 Skills
