@@ -12,21 +12,22 @@ Now I am a second-year master's student in from the Department of Computer Scien
 
 My research interests include NLP,  dialogue system, and dialogue safety. I am also familiar with some model pre-training  researches.
 
-**I am looking for jobs** after I got my master's degree (June, 2023 in expect). I am very interested in jobs about 
+$\textcolor{orange}{\textbf{I am looking for jobs}}$ after I got my master's degree (June, 2023 in expect). I am very interested in jobs about 
 
 1. Algorithm engineer about NLP (e.g. search engine, dialogue system)
 2. NLP researcher
 3. Quant or trader in quantitative research companies
 
-If you are hiring for one of these positions, and interested in me, please do not hesitate to contact me by e-mail.
+If you are hiring for one of these positions, and interested in me, I'd appreciate it if you could contact me by e-mail.
 
 Publications
 ======
 
 \* means equal contribution
 
+* **Hao Sun**\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, Chujie Zheng, Hao Zhou, Nanyun Peng, Xiaoyan Zhu, and Minlie Huang. 2022. [On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark](https://aclanthology.org/2022.findings-acl.308). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 3906–3923, Dublin, Ireland. Association for Computational Linguistics.
+
 - **Hao Sun**\*, Zhenru Lin\*, Chujie Zheng, Siyang Liu, and Minlie Huang. 2021. [PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support](https://aclanthology.org/2021.findings-acl.130). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, pages 1489–1503, Online. Association for Computational Linguistics.
-- **Hao Sun**\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, Chujie Zheng, Hao Zhou, Nanyun Peng, Xiaoyan Zhu, and Minlie Huang. 2022. [On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark](https://aclanthology.org/2022.findings-acl.308). In *Findings of the Association for Computational Linguistics: ACL 2022*, pages 3906–3923, Dublin, Ireland. Association for Computational Linguistics.
 
 Preprint (Papers Under Review)
 ======
