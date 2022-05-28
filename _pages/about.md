@@ -12,7 +12,7 @@ Now I am a second-year master's student in from the Department of Computer Scien
 
 My research interests include NLP,  dialogue system, and dialogue safety. I am also familiar with some model pre-training  researches.
 
-$\textcolor{orange}{\textbf{I am looking for jobs}}$ after I got my master's degree (June, 2023 in expect). I am very interested in jobs about 
+**I am looking for jobs** after I got my master's degree (June, 2023 in expect). I am very interested in jobs about 
 
 1. Algorithm engineer about NLP (e.g. search engine, dialogue system)
 2. NLP researcher
