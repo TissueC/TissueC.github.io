@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am 孙豪 (Hao Sun), a second-year master's student in from the Department of Computer Science and Technology, Tsinghua University. I am affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before I come to Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
+Hi, I am 孙豪 (Hao Sun), a second-year master's student from the Department of Computer Science and Technology, Tsinghua University. I am affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before I come to Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
 
 My research interests include NLP,  dialogue system, and dialogue safety. I am also familiar with some model pre-training  researches.
 
