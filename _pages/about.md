@@ -16,7 +16,6 @@ My research interests include NLP,  dialogue system, and dialogue safety. I am a
 
 1. Algorithm engineer about NLP (e.g. search engine, dialogue system)
 2. NLP researcher
-3. Quant or trader in quantitative research companies
 
 If you are hiring for one of these positions, and interested in me, I'd appreciate it if you could contact me by e-mail.
 
