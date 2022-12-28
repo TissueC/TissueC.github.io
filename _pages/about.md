@@ -31,17 +31,19 @@ Publications
 
 - **Hao Sun**\*, Zhenru Lin\*, Chujie Zheng, Siyang Liu, and Minlie Huang. 2021. [PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support](https://aclanthology.org/2021.findings-acl.130). In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021*, pages 1489–1503, Online. Association for Computational Linguistics.
 
-Preprint (Papers Under Review)
+Preprint
 ======
+* **Hao Sun**, Zhexin Zhang, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang [MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions](https://arxiv.org/abs/2212.10720). *arXiv preprint arXiv:2212.10720*.
 * Yuxian Gu\*, Jiaxin Wen\*, **Hao Sun**\*, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, Jianzhu Yao, Xiaoyan Zhu, Jie Tang, Minlie Huang [EVA2. 0: Investigating Open-domain Chinese Dialogue Systems With Large-scale Pre-training](https://arxiv.org/abs/2203.09313). arxiv preprint 2203.09313.
+* Jiale Cheng, Sahand Sabour, **Hao Sun**, Zhuang Chen, Minlie Huang [PAL: Persona-Augmented Emotional Support Conversation Generation](https://arxiv.org/abs/2212.09235). *arXiv preprint arXiv:2212.09235.*
 
-  
+
 
 # Social Services
 
-* Teaching Assistant of *Artificial Neural Network* in Tsinghua University, 2021/2022
+* Teaching Assistant of *Artificial Neural Network* in Tsinghua University, 2021/2022, autumn.
 
-* Reviewer in ACL2022/EMNLP2022
+* Reviewer in ACL2023/ACL2022/EMNLP2022
 
 
 # Awards
