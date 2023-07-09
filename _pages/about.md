@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am 孙豪 (Hao Sun), a NLP researcher in miHoYo. I got my master's degree from the Department of Computer Science and Technology, Tsinghua University. I was affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
+Hi, I am 孙豪 (Hao Sun), a NLP researcher in <img src="../images/mihoyo_logo.svg" alt="mihoyo_logo" style="zoom:25%;" /> . I got my master's degree from the Department of Computer Science and Technology, Tsinghua University. I was affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
 
 My research interests include NLP,  text generation, dialogue system, and dialogue safety. I am also familiar with some pre-training model researches.
 
