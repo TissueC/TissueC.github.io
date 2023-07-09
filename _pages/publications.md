@@ -7,11 +7,6 @@ author_profile: true
 
 Find my full article list on [my google scholar](https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en)
 
-Publications
-======
-
-Find my full article list on [my google scholar](https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en)
-
 \* means equal contribution
 
 * **Hao Sun**, Zhexin Zhang, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang [MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Constructing Moral Discussions](https://arxiv.org/abs/2212.10720).  *In the Association for Computational Linguistics: ACL 2023*

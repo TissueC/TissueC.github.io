@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Hao Sun / 孙豪"
 title_separator          : "-"
 name                     : &name "Hao Sun"
-description              : &description "Master Student in Tsinghua University"
+description              : &description "NLP reseacher"
 url                      : https://tissuec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TissueC/TissueC.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Sun | 孙豪"
   avatar           : "profile.png"
-  bio              : "A CS master student in Tsinghua University. My research interest: NLP, dialogue system, dialogue safety"
+  bio              : "A NLP researcher in miHoYo"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en"
-  email            : "h-sun20[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn"
+  email            : "thu-sunhao[AT]foxmail[DOT]com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
