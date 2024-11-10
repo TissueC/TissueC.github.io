@@ -44,7 +44,7 @@ Preprint
 
 * Teaching Assistant of *Artificial Neural Network* in Tsinghua University, 2021/2022, autumn.
 
-* Reviewer in EMNLP2023/ACL2023/ACL2022/EMNLP2022
+* Reviewer in ACL/EMNLP 2022/23/24, ICLR/Neurips 2024
 
 
 # Awards
