@@ -10,14 +10,17 @@ redirect_from:
 
 Hi, I am 孙豪 (Hao Sun), a NLP researcher in <img src="../images/mihoyo_logo.svg" alt="mihoyo_logo" style="zoom:17.7%;" /> . I got my master's degree from the Department of Computer Science and Technology, Tsinghua University. I was affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
 
-My research interests include NLP,  text generation, dialogue system, and dialogue safety. I am also familiar with some pre-training model researches.
+My research interests include
+- Large-scale LLM training (Data collection, scalable model architecture, training algorithms, etc.);
+- Scaling laws and training dynamics of LLMs;
+- Safety and social implications of LLMs (mainly during my master period)
 
 
 
 Publications
 ======
 
-Find my full article list on [my google scholar](https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en)
+Find a part of my article list on [my google scholar](https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en)
 
 \* means equal contribution
 
