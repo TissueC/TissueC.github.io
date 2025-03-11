@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Blogs"
+permalink: /blogs/
+author_profile: true
+---
+
+
 # Scaling Laws with Learning Rate Annealing -- Not only about LR annealing, but a graceful, insightful, and efficient scaling law countering OpenAI/Chinchilla scaling laws.
 
 
