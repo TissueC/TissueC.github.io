@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am 孙豪 (Hao Sun), a NLP researcher in <img src="../images/mihoyo_logo.svg" alt="mihoyo_logo" style="zoom:17.7%;" /> . I got my master's degree from the Department of Computer Science and Technology, Tsinghua University. I was affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
+Hi, I am 孙豪 (Hao Sun), an NLP researcher in <img src="../images/mihoyo_logo.svg" alt="mihoyo_logo" style="zoom:17.7%;" /> . I got my master's degree from the Department of Computer Science and Technology, Tsinghua University. I was affiliated in [CoAI group](http://coai.cs.tsinghua.edu.cn/) and fortunately supervised by A/Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml). Before Tsinghua University, I got my bachelor's degree in Shanghai Jiao Tong University in 2020.
 
 My research interests include
 - Large-scale LLM training (Data collection, scalable model architecture, training algorithms, etc.);
